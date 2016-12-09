@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SetDeck()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ SetDeck.\ Contains\ 2\ parameters.\n\ Sets\ instance\ variables\ equal\ to\ parameters.\ \n\ I\ used\ a\ for\ loop\ and\ multiple\ if-statements\ to\ assign\n\ each\ feature\ to\ the\ cards\ in\ the\ deck.\n
+comment1.params=
+comment1.target=void\ shuffle()
+comment1.text=\n\ The\ method\ shuffle()\ contains\ a\ for\ loop\ that\ counts\ from\ 0\ through\ 80.\n\ It\ swaps\ the\ current\ card\ with\ a\ random\ card\ in\ the\ deck.\n
+comment2.params=
+comment2.target=SetCard\ dealTopCard()
+comment2.text=\n\ The\ method\ dealTopCard()\ should\ return\ the\ top\ card\ in\ the\ deck\ and\ increment\n\ top\ to\ the\ next\ card.\n
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment3.text=\n\ The\ method\ isEmpty()\ should\ return\ a\ boolean\ as\ true\n\ if\ top\ is\ greater\ than\ 80,\ false\ otherwise.\n
+numComments=4

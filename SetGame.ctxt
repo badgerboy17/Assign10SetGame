@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=card1\ card2\ card3
+comment0.target=boolean\ isSet(SetCard,\ SetCard,\ SetCard)
+comment0.text=\n\ This\ method\ returns\ true\ if\ the\ three\ parameter\ cards\ form\ a\ set,\ false,\ otherwise.\n\ I\ used\ if-statements\ to\ check\ all\ possible\ combinations\ that\ would\ return\ true.\n
+comment1.params=board
+comment1.target=void\ findSets(SetCard[])
+comment1.text=\n\ This\ method\ should\ find\ and\ print\ all\ sets\ in\ the\ board\ array.\n\ I\ used\ 3\ nested\ for\ loops\ to\ check\n\ all\ card\ combinations\ for\ sets\ and\ printed\ them.\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ The\ main\ method\ should\ do\ the\ following.\ \n\ 1)\ Declare\ an\ array\ of\ size\ 12\ of\ SetCards\ named\ board.\n\ 2)\ Instantiate\ a\ deck\ of\ set\ cards.\n\ 3)\ Shuffle\ the\ deck.\n\ 4)\ Deal\ 12\ cards\ from\ the\ deck\ into\ the\ board.\n\ 5)\ Print\ the\ board.\n\ 6)\ Find\ and\ print\ all\ sets\ in\ the\ board\ array.\n
+numComments=3
